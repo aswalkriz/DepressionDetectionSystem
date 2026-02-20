@@ -3,7 +3,7 @@ The Depression detection system is designed to provide accessible, personalized,
 
 <img width="713" height="466" alt="image" src="https://github.com/user-attachments/assets/1fd6227c-a927-4fba-ba55-9e50dcfac97f" />
 
-🚀 Features
+# 🚀 Features
 
 ✅ Text-based depression detection
 
@@ -17,7 +17,7 @@ The Depression detection system is designed to provide accessible, personalized,
 
 ✅ Accuracy, Precision, Recall metrics
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Programming Language: Python
 
@@ -34,3 +34,41 @@ NLTK / spaCy
 Matplotlib / Seaborn
 
 Framework: Streamlit
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/aswalkriz/DepressionDetectionSystem.git
+```
+### 2️⃣ Go into the directory
+
+```bash
+cd DepressionDetectionSystem
+```
+### 3️⃣ Install dependencies
+
+```bash
+pip install pandas numpy scikit-learn nltk matplotlib seaborn
+```
+
+### 4️⃣ Open Jupyter Notebook in Terminal
+
+```bash
+jupyter notebook
+```
+### Open 
+
+```bash
+Mental Health Management.ipynb
+```
+
+## 📈 Model Evaluation
+
+| Metric    | Score |
+|-----------|-------|
+| Accuracy  | 81%   |
+| Precision | 89%   |
+| Recall    | 80%   |
+| F1-Score  | 82%   |
