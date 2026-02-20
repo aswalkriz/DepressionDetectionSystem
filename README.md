@@ -2,3 +2,35 @@
 The Depression detection system is designed to provide accessible, personalized, and confidential care for individuals, especially those where professional help may be limited or unavailable in their area because of stigma or geographical constraints. The tool integrates self-care tools and AI-driven support by accessing licensed therapists and making it possible to offer holistic support methods to empower users to take control of their mental well-being. The platform would increase awareness regarding mental health, attempt to provide real-time crisis intervention, and give long-term help through mood tracking and so forth - providing individualized personal mental health resources, among others.
 
 <img width="713" height="466" alt="image" src="https://github.com/user-attachments/assets/1fd6227c-a927-4fba-ba55-9e50dcfac97f" />
+
+🚀 Features
+
+✅ Text-based depression detection
+
+✅ Machine Learning classification model
+
+✅ Data preprocessing & cleaning
+
+✅ Model training and evaluation
+
+✅ User-friendly interface (CLI/Web – based on your implementation)
+
+✅ Accuracy, Precision, Recall metrics
+
+🛠️ Tech Stack
+
+Programming Language: Python
+
+Libraries Used:
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+NLTK / spaCy
+
+Matplotlib / Seaborn
+
+Framework: Streamlit
